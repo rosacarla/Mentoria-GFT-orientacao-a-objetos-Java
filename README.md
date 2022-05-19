@@ -85,7 +85,7 @@ Objeto em ciência da computação, é uma referência a um local da memória qu
 Uma instância de uma classe é um novo objeto criado dessa classe, com o operador new. Instanciar uma classe é criar um novo objeto do mesmo tipo dessa classe. Uma classe somente poderá ser utilizada após ser instanciada.
 
 ------------
-<h2 align="center">📝 <a href="https://github.com/cami-la/projeto_classes_poo_youtube">Exercícios de Fixação</a></h2>
+<h2 align="center">📝 <a href="https://github.com/rosacarla/Mentoria-GFT-orientacao-a-objetos-Java/tree/master/java-classes-poo/src/dio/com/java">Resolução de Exercícios</a></h2>
 
 <h2> 🤝 Contribuindo </h2>
 
