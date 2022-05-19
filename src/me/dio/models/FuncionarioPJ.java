@@ -2,7 +2,7 @@ package me.dio.models;
 
 import me.dio.models.Endereco;
 
-public abstract class FuncionarioPJ {
+public abstract class FuncionarioPJ { //classe só pra herança
   private String nome;
   private String documento;
   private Endereco endereco;
@@ -10,10 +10,13 @@ public abstract class FuncionarioPJ {
   private Double valorHora;
   private Double valorRemuneracao;
 
+  //criado metodo pra calcular remuneração, é void e por isso nao retorna nada
   public void calculaRemuneracao(){
     this.valorRemuneracao = this.horasTrabalhadas * this.valorHora;
   }
+  //resultado do calculo é atribuído a variavel "valorRemuneracao"
 
+  //gera getters e setters da claase
   public String getNome() {
     return nome;
   }
