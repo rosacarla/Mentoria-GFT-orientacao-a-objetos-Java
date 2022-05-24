@@ -1,13 +1,13 @@
-# 🏗️Mentoria: Abstraindo situações do mundo real com Orientação a Objetos
+# 🏗️MENTORIA: ABASTRAINDO SITUAÇÕES DO MUNDO REAL COM ORIENTAÇÃO A OBJETOS
 
 O repositório foi copiado da versão original elaborada pela profª Camila Cavalcanti a fim de manter registrados os conteúdos e as atividades realizadas durante a sessão de mentoria que integra o programa do bootcamp _GFT Start Woman Java_, disponibilizado na plataforma da Digital Innovation One Inc. Esta mentoria tem o objetivo de praticar algumas das principais ferramentas da Orientação a Objetos: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA, COMPOSIÇÃO E POLIMORFISMO por meio de um projeto Java. Os slides podem ser acessados neste [link](https://docs.google.com/presentation/d/1fjYpumCvVVNZQgwf-FeCvUR2ADNLnnCD/edit?usp=sharing&ouid=107351545544725249935&rtpof=true&sd=true).  
 
 ---
 
 ## ☑️ Pré-Requisitos  
-📌 Conhecer a sintaxe da linguagem Java  
-📌 Instalar Java JDK 8+  
-📌 IDE para desenvolvimento Java (IntelliJ em uso pela professora)  
+* Conhecer a sintaxe da linguagem Java  
+* Instalar Java JDK 8+  
+* IDE para desenvolvimento Java (IntelliJ em uso pela professora)  
 
 ---  
     
@@ -98,19 +98,19 @@ public interface CalculaBonificacao {  //interface sempre é abstrata, caracteri
 
 ## 🔡 Conceitos Fundamentais POO
 
-🔻 DOMÍNIO: domínio da aplicação, também conhecida como camada de negócio ou de objetos de negócio, é aquela onde estão localizadas as classes que fazem parte do domínio do problema, ou seja, classes correspondentes a objetos que fazem parte da descrição do problema.
+* DOMÍNIO: domínio da aplicação, também conhecida como camada de negócio ou de objetos de negócio, é aquela onde estão localizadas as classes que fazem parte do domínio do problema, ou seja, classes correspondentes a objetos que fazem parte da descrição do problema.
 
-🔻 CLASSE: elemento do código que tem a função de representar objetos do mundo real. Dentro dela é comum declararmos atributos e métodos, que representam, respectivamente, as características e comportamentos desse objeto.
+* CLASSE: elemento do código que tem a função de representar objetos do mundo real. Dentro dela é comum declararmos atributos e métodos, que representam, respectivamente, as características e comportamentos desse objeto.
 
-🔻 ATRIBUTO: são basicamente a estrutura de dados que vai representar a classe. Os atributos também são conhecidos como VARIÁVEL DE CLASSE, e podem ser divididos em dois tipos básicos: atributos de instância e de classe.
+* ATRIBUTO: são basicamente a estrutura de dados que vai representar a classe. Os atributos também são conhecidos como VARIÁVEL DE CLASSE, e podem ser divididos em dois tipos básicos: atributos de instância e de classe.
 
-🔻 VARIÁVEL: uma “região de memória (do computador) previamente identificada cuja finalidade é armazenar os dados ou informações de um programa por um determinado espaço de tempo”.
+* VARIÁVEL: uma “região de memória (do computador) previamente identificada cuja finalidade é armazenar os dados ou informações de um programa por um determinado espaço de tempo”.
 
-🔻 MÉTODO: representam os estados e ações dos objetos e classes.
+* MÉTODO: representam os estados e ações dos objetos e classes.
 
-🔻 OBJETO: é um "molde" de uma determinada classe, que passa a existir a partir de uma instância da classe. A classe define o comportamento do objeto, usando atributos (propriedades) e métodos (ações). Objeto em ciência da computação, é uma referência a um local da memória que possui um valor. Um objeto pode ser uma variável, função, ou estrutura de dados.
+* OBJETO: é um "molde" de uma determinada classe, que passa a existir a partir de uma instância da classe. A classe define o comportamento do objeto, usando atributos (propriedades) e métodos (ações). Objeto em ciência da computação, é uma referência a um local da memória que possui um valor. Um objeto pode ser uma variável, função, ou estrutura de dados.
 
-🔻 INSTÂNCIA: a instância de uma classe é um novo objeto criado dessa classe, com o operador new. Instanciar uma classe é criar um novo objeto do mesmo tipo dessa classe. Uma classe somente poderá ser utilizada após ser instanciada.
+* INSTÂNCIA: a instância de uma classe é um novo objeto criado dessa classe, com o operador new. Instanciar uma classe é criar um novo objeto do mesmo tipo dessa classe. Uma classe somente poderá ser utilizada após ser instanciada.
 
 ---  
 
