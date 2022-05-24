@@ -12,7 +12,7 @@ O repositório foi copiado da versão original elaborada pela profª Camila Cava
 ---  
     
 ## 🎯 Desafio
-Modelar entidades de uma aplicação de <strong>Gerenciamento de Colaboradores</strong> de uma loja. Dentre outras funcionalidades a serem implementadas, o sistema terá a funcionalidade de calcular bonificação de colaboradores da loja conforme estas regras:  
+Modelar entidades de uma aplicação de <strong>Gerenciamento de Colaboradores</strong> de uma loja. Dentre as funcionalidades a serem implementadas, o sistema terá a função de calcular bonificação de colaboradores da loja conforme estas regras:  
 - **Vendedor** é um Funcionário CLT e tem o benefício de bonificação.  
 - **Operador de Caixa** é um funcionário CLT, mas não tem o benefício da bonificação.  
 - **Gerente** é um Funcionário PJ e tem o benefício da bonificação.  
