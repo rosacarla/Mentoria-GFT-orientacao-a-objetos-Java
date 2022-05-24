@@ -1,6 +1,6 @@
 package me.dio.models;
 
-//criada claase Endereco com 3 atributos
+//criada classe Endereco com 3 atributos
 public class Endereco {
   //usado modificador de acesso "private" pra nao alterar atributos diretamente em cada um deles
   //modificacoes serão feitas com getters e setters
