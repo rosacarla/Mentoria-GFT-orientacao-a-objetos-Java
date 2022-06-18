@@ -1,4 +1,4 @@
-# 🏗️MENTORIA: AASTRAINDO SITUAÇÕES DO MUNDO REAL COM ORIENTAÇÃO A OBJETOS
+# 🏗️MENTORIA: ABSTRAINDO SITUAÇÕES DO MUNDO REAL COM ORIENTAÇÃO A OBJETOS
 
 O repositório foi copiado da versão original elaborada pela profª Camila Cavalcante a fim de manter registrados os conteúdos e as atividades realizadas durante a sessão de mentoria que integra o programa do bootcamp _GFT Start Woman Java_, disponibilizado na plataforma da Digital Innovation One Inc. Esta mentoria tem o objetivo de praticar algumas das principais ferramentas da Orientação a Objetos: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA, COMPOSIÇÃO E POLIMORFISMO por meio de um projeto Java. Os slides podem ser acessados neste [link](https://docs.google.com/presentation/d/1fjYpumCvVVNZQgwf-FeCvUR2ADNLnnCD/edit?usp=sharing&ouid=107351545544725249935&rtpof=true&sd=true).  
 
